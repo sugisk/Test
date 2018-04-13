@@ -10,5 +10,5 @@ package test;
  * @author 5161042
  */
 public class Test {
-    
+    String t = "test";
 }
