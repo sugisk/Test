@@ -11,4 +11,5 @@ package test;
  */
 public class Test {
     String t = "test";
+    String s = "aaa";
 }
